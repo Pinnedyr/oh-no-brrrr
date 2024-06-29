@@ -1,5 +1,5 @@
 <!-- Copy this into the <head> -->
-<meta http-equiv="refresh" content="3;url=MAINPAGE.html" /> 
+<meta http-equiv="refresh" content="3;url=index.html" /> 
 
 ...
 
